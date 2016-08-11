@@ -5,4 +5,4 @@ Parses a gzipped archive of msg files and produces a single output file containi
 and the subject for each of the messages processed in json format.
 
 ## How to run
-```$ python RPParseMsg.py [archive file location] [results file location]
+```$ python RPParseMsg.py [archive file location] [results file location]```
